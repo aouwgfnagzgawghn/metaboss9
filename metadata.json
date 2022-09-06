@@ -1,0 +1,28 @@
+{
+  "name": "y00ts: mint t00b #1407",
+  "symbol": "t00b",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://ipfs.io/ipfs/QmZSJvWJcHRfeDpN4vfDMhn1724GsNUS8tgdCsNAWLuUfJ?ext=jpg",
+  "attributes": [
+    {
+      "trait_type": "t00b",
+      "value": "y00t"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2dYeMCkrGHzLMW1rZBhbsY2EF7PS775YCttex7fhb3U1",
+        "share": 100
+      }
+    ]
+  }
+}
